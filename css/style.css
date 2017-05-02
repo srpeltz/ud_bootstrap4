@@ -1,0 +1,29 @@
+/*styles.css*/
+
+html,
+body {
+  height: 100%;
+  margin: 0 auto;
+}
+
+
+/*cover*/
+
+#cover {
+  background: #222 url('../img/stars.jpg') center center no-repeat;
+  background-size: cover;
+  color: white;
+  height: 100%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+#cover-caption {
+  width: 100%;
+}
+
+.form-inline {
+  margin: 0 auto;
+  align-items: center;
+}
