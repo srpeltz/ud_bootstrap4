@@ -9,7 +9,7 @@ body {
   color: #6c6f73;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5{
   color: #333;
 }
 
@@ -65,12 +65,48 @@ h6 {
   color: white;
 }
 
-.feature-dark h2, h6 {
+.feature-alt {
+  background-color: #f0f0f0;
+}
+
+.feature-dark h2 {
   color: white;
 }
 
 .feature-content img {
   margin-bottom: -8rem;
+}
+
+#feature-three img {
+  width: 100%;
+}
+
+#feature-four .feature-content {
+  padding: 0;
+}
+
+#feature-five img {
+  width: 100%;
+  margin-top: 2rem;
+}
+
+#feature-six img {
+  width: 100%;
+}
+
+#main-footer {
+  background: #262f36;
+  color: white;
+  padding: 6rem 0;
+  font-size: 0.8rem;
+}
+
+#main-footer h6 {
+  color: #718fa9;
+}
+
+#main-footer a {
+  color: #6c6573;
 }
 
 
